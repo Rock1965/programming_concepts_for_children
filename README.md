@@ -9,31 +9,31 @@ This is just the first draft, work in progress, but I consider it useful already
 | ----- | :----- |
 | Prepares | instructions and function calls and their sequencing |
 | Age | 3+ |
-| Links | http://lightbot.com https://scratch.mit.edu |
+| Links | http://lightbot.com https://www.scratchjr.org |
 
 | Concept | loops and nested loops |
 | ----- | :----- |
 | Prepares | instruction/function call sequence looping |
 | Age | 3+ |
-| Links | http://lightbot.com https://scratch.mit.edu |
+| Links | http://lightbot.com https://www.scratchjr.org |
 
 | Concept | reusing command sequences |
 | ----- | :----- |
 | Prepares | function/procedure definition |
 | Age | 3+ |
-| Links | http://lightbot.com https://scratch.mit.edu |
+| Links | http://lightbot.com https://www.scratchjr.org |
 
 | Concept | finding the problem in the command sequence |
 | ----- | :----- |
 | Prepares | debugging |
 | Age | 3+ |
-| Links | http://lightbot.com https://scratch.mit.edu |
+| Links | http://lightbot.com https://www.scratchjr.org |
 
 | Concept | divide solutions into linked command sequences |
 | ----- | :----- |
 | Prepares | decomposition |
 | Age | 6+ |
-| Links | http://lightbot.com https://scratch.mit.edu |
+| Links | http://lightbot.com https://www.scratchjr.org https://scratch.mit.edu |
 
 | Concept | conditional statements |
 | ----- | :----- |
