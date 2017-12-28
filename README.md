@@ -1,7 +1,9 @@
 # Programming concepts for children
-What and when to teach to prepare children for programming
+What and when to teach to prepare children for programming.
 
 Feel free to contribute through the issue tracker or pull requests.
+
+This is just the first draft, work in progress, but I consider it useful already.
 
 | Concept | commands and command sequences |
 | ----- | ----- |
@@ -55,10 +57,7 @@ Feel free to contribute through the issue tracker or pull requests.
 | ----- | ----- |
 | Prepares | modules |
 | Age | 12+ |
-| Links | |
-
-to be continued...
-	
+| Links | |	
 	
 	
 	
