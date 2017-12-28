@@ -1,2 +1,82 @@
-# programming_concepts_for_children
+# Programming concepts for children
 What and when to teach to prepare children for programming
+
+Feel free to contribute through the issue tracker or pull requests.
+
+| Concept | commands and command sequences |
+| ----- | ----- |
+| Prepares | instructions and function calls and their sequencing |
+| Age | 3+ |
+| Links | http://lightbot.com https://scratch.mit.edu |
+
+| Concept | loops and nested loops |
+| ----- | ----- |
+| Prepares | instruction/function call sequence looping |
+| Age | 3+ |
+| Links | http://lightbot.com https://scratch.mit.edu |
+
+| Concept | reusing command sequences |
+| ----- | ----- |
+| Prepares | function/procedure definition |
+| Age | 3+ |
+| Links | http://lightbot.com https://scratch.mit.edu |
+
+| Concept | finding the problem in the command sequence |
+| ----- | ----- |
+| Prepares | debugging |
+| Age | 3+ |
+| Links | http://lightbot.com https://scratch.mit.edu |
+
+| Concept | divide solutions into linked command sequences |
+| ----- | ----- |
+| Prepares | decomposition |
+| Age | 6+ |
+| Links | http://lightbot.com https://scratch.mit.edu |
+
+| Concept | conditional statements |
+| ----- | ----- |
+| Prepares | if/then statements, control structures |
+| Age | 6+ |
+| Links | https://scratch.mit.edu |
+
+| Concept | creating command sequences for events |
+| ----- | ----- |
+| Prepares | events and threads |
+| Age | 6+ |
+| Links | https://scratch.mit.edu |
+
+| Concept | storing states |
+| ----- | ----- |
+| Prepares | concept of variables |
+| Age | 9+ |
+| Links | https://scratch.mit.edu |
+
+| Concept | grouping functions |
+| ----- | ----- |
+| Prepares | modules |
+| Age | 12+ |
+| Links | |
+
+to be continued...
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
