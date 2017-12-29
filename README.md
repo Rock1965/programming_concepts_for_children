@@ -1,5 +1,7 @@
 # Programming concepts for children
-Feel free to contribute through the issue tracker or pull requests. Only free educational software is linked, I'm not a big fan of paid education.
+Feel free to contribute through the issue tracker or pull requests. Only free educational software is linked.
+
+**[Concepts that should lay the foundation for real programming languages]**
 
 | Concept | commands and command sequences |
 | - | :- |
@@ -57,8 +59,9 @@ Feel free to contribute through the issue tracker or pull requests. Only free ed
 | How | play sound if actor reaches speific object during movement for the third time |
 | Apps | https://scratch.mit.edu |
 
-These concepts should lay the foundation for real programming languages. After the child can read/write and understands basic math they can pick a language to start with.
-Concepts to understand in real programming languages :
+
+**[Concepts to understand in real programming languages]**
+
 
 | Control structures | |
 | :- | :- |
@@ -87,7 +90,9 @@ Concepts to understand in real programming languages :
 | :- |
 | Both in modular and object-oriented programming it is desirable to have as many independent parts as possible for fast refactoring and interchangeability. To avoid direct communication/calls between program parts, a mediator function/object can be used to transfer messages between parts. |
 
-Essential math concepts for programming
+
+**[Essential math concepts for programming]**
+
 
 | Concept | Needed for |
 | :- | :- |
@@ -95,7 +100,9 @@ Essential math concepts for programming
 | Hexadecimal numeral system |  working with bytes, color codes |
 | Trigonometry | almost everything, graphics, signal processing, etc |
 
-Some links
+
+**[Some links]**
+
 
 | Link | Description |
 | :- | :- |
