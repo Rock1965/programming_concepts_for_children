@@ -73,7 +73,7 @@ Concepts to understand in real programming languages
 | switch ... | conditional statement |
 | for each ... | loop |
 
-| Primitive types | |
+| Types | |
 | :- | :- |
 | Integer | number |
 | Float |  number |
@@ -92,11 +92,12 @@ Concepts to understand in real programming languages
 | Both in modular and object-oriented programming it is desirable to have as many independent parts as possible for fast refactoring and interchangeability. To avoid direct communication/calls between program parts, a mediator function/object can be used to transfer messages between parts. |
 
 
-Essential math concepts for programming
+Essential math skills for programming
 ---
 
-| Concept | Needed for |
+| Skill | Needed for |
 | :- | :- |
+| Boolean arithmetic | conditional statements |
 | Binary numeral system | bitwise operations, understanding how the cpu works on low level |
 | Hexadecimal numeral system |  working with bytes, color codes |
 | Trigonometry | almost everything, graphics, signal processing, etc |
