@@ -1,60 +1,60 @@
 # Programming concepts for children
-Feel free to contribute through the issue tracker or pull requests. Only free educational software is linked.
+Feel free to contribute here or comment on my [homepage]( http://milgra.com/programming-concepts-for-children.html ). Only free educational software is linked.
 
 Concepts that should lay the foundation for real programming languages
 ---
 
 | Concept | commands and command sequences |
-| - | :- |
+| :- | :- |
 | Prepares | instructions/function calls and their sequencing |
 | Age | 3+ |
 | How | defining movement commands for an actor ( robot or turtle ) |
 | Apps | http://lightbot.com https://www.scratchjr.org |
 
 | Concept | loops and nested loops |
-| - | :- |
+| :- | :- |
 | Prepares | instruction/function call sequence looping |
 | Age | 5+ |
 | How | defining repetitive movement commands |
 | Apps | http://lightbot.com https://www.scratchjr.org |
 
 | Concept | reusing command sequences |
-| - | :- |
+| :- | :- |
 | Prepares | function/procedure definition |
 | Age | 5+ |
 | How | defining and using command sequence groups |
 | Apps | http://lightbot.com https://www.scratchjr.org |
 
 | Concept | finding the problem in the command sequence |
-| - | :- |
+| :- | :- |
 | Prepares | debugging |
 | Age | 5+ |
 | How | figuring out how to modify the command sequence to fulfill the desired behaviour |
 | Apps | http://lightbot.com https://www.scratchjr.org |
 
 | Concept | divide solutions into linked command sequences |
-| - | :- |
+| :- | :- |
 | Prepares | decomposition |
 | Age | 6+ |
 | How | figure out a solution for a harder problem using different command sequences, each concentrating on an simpler task |
 | Apps | http://lightbot.com https://www.scratchjr.org https://scratch.mit.edu |
 
 | Concept | conditional statements |
-| - | :- |
+| :- | :- |
 | Prepares | if/then statements, control structures |
 | Age | 6+ |
 | How | play sound if actor reaches specific object during movement |
 | Apps | https://scratch.mit.edu |
 
 | Concept | creating command sequences for events |
-| - | :- |
+| :- | :- |
 | Prepares | events and threads |
 | Age | 6+ |
 | How | different movement commands for different key events/touch events |
 | Apps | https://scratch.mit.edu |
 
 | Concept | storing states |
-| - | :- |
+| :- | :- |
 | Prepares | concept of variables |
 | Age | 9+ |
 | How | play sound if actor reaches speific object during movement for the third time |
